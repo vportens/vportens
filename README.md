@@ -26,27 +26,31 @@ If you haven't heard of it already, 42 is a peer-to-peer learning Software Devel
 ## Projects done so far:
 
 ### Major Projects:
-1. [Ft_transcendence](https://github.com/your_username/ft_transcendence) - Full-stack web application with NestJS and React.js.
+1. [Ft_transcendence](https://github.com/axaidan/ft_transcendance) - Full-stack web application with NestJS and React.js.
 2. [Ft_containers](https://github.com/vportens/ft_container) - Recreation of STL containers from scratch in C++.
-3. [Inception](https://github.com/vportens/inception_project) - WordPress deployment with Docker and Docker Compose.
 4. [Webserv](https://github.com/vportens/webserv) - HTTP server from scratch in C++.
-
-### Algorithmic Projects:
-1. [Cub3d](https://github.com/vportens/petits_programmes/tree/master/game/cub3D) - 3D game in C with raycasting implementation.
-
-2. [PushSwap](https://github.com/vportens/push_swap) - Stack sorting algorithm in C.
-### Machine Learning Projects:
-1. [Linear Regression](https://github.com/vportens/machine_learning/tree/main/regression_lineaire) - Implementation of linear regression function in Python.
 
 
 ### Networking Projects:
-1. [Ft_ping](https://github.com/vportens/ft_ping) - Recreation of the ping command in C.
+1. [Inception of Thing](https://github.com/Balgor18/Inception-of-things) - Several scripts to deploying servers with kubernet and some application.
+2. [Cloud1](https://github.com/vportens/cloud-1) - Automatique deployement on a cloud server of an wordpress application with phpmyadmin and mysql db.
+3. [Inception](https://github.com/vportens/inception_project) - WordPress deployment with Docker and Docker Compose.
+4. [Ft_ping](https://github.com/vportens/ft_ping) - Recreation of the ping command in C.
+
+### Python Projects:
+1. [Linear Regression](https://github.com/vportens/machine_learning/tree/main/regression_lineaire) - Implementation of linear regression function in Python.
+2. [Piscine Python](https://github.com/vportens/Piscine_Python) - Python 101 for data manipulation
+
 
 ### Game Development Projects:
 1. [So_long](https://github.com/vportens/petits_programmes/tree/master/game/so_long) - 2D game in C.
 2. [Wordle](https://github.com/vportens/petits_programmes/tree/master/game/wordle) - Recreation of the Wordle game in C.
 3. [Connect4](https://github.com/vportens/petits_programmes/tree/master/game/connect4) - Recreation of the Connect4 game in C.
 4. [2048](https://github.com/vportens/petits_programmes/tree/master/game/2048) - Recreation of the 2048 game in C.
+
+### Algorithmic Projects:
+1. [Cub3d](https://github.com/vportens/petits_programmes/tree/master/game/cub3D) - 3D game in C with raycasting implementation.
+2. [PushSwap](https://github.com/vportens/push_swap) - Stack sorting algorithm in C.
 
 ### Pedagogique Project :
 1. [Csharp Course](https://github.com/vportens/c-cour) - Pedagogical course in C#.
