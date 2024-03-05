@@ -39,7 +39,8 @@ If you haven't heard of it already, 42 is a peer-to-peer learning Software Devel
 
 ### Python Projects:
 1. [Linear Regression](https://github.com/vportens/machine_learning/tree/main/regression_lineaire) - Implementation of linear regression function in Python.
-2. [Piscine Python](https://github.com/vportens/Piscine_Python) - Python 101 for data manipulation
+2. [Logistique Regression](https://github.com/vportens/dslr) - Implementation of one vs all Logistique regression and different gradient descente in Python.
+3. [Piscine Python](https://github.com/vportens/Piscine_Python) - Python 101 for data manipulation
 
 
 ### Game Development Projects:
